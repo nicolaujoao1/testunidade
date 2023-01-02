@@ -1,0 +1,12 @@
+C:\Users\HP\Source\Repos\testunidade\TesteDeSoftware\Demo\bin\Debug\net6.0\Demo.deps.json
+C:\Users\HP\Source\Repos\testunidade\TesteDeSoftware\Demo\bin\Debug\net6.0\Demo.dll
+C:\Users\HP\Source\Repos\testunidade\TesteDeSoftware\Demo\bin\Debug\net6.0\Demo.pdb
+C:\Users\HP\Source\Repos\testunidade\TesteDeSoftware\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+C:\Users\HP\Source\Repos\testunidade\TesteDeSoftware\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Source\Repos\testunidade\TesteDeSoftware\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\testunidade\TesteDeSoftware\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+C:\Users\HP\Source\Repos\testunidade\TesteDeSoftware\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\testunidade\TesteDeSoftware\Demo\obj\Debug\net6.0\Demo.dll
+C:\Users\HP\Source\Repos\testunidade\TesteDeSoftware\Demo\obj\Debug\net6.0\refint\Demo.dll
+C:\Users\HP\Source\Repos\testunidade\TesteDeSoftware\Demo\obj\Debug\net6.0\Demo.pdb
+C:\Users\HP\Source\Repos\testunidade\TesteDeSoftware\Demo\obj\Debug\net6.0\ref\Demo.dll
