@@ -9,6 +9,7 @@ namespace Demo.Tests
     public class CalculadoraTests
     {
         [Fact]
+        [Trait("Calculadora","Somar  retornar valor soma")]
         public void Calculadora_Somar_RetornarValorSoma()
         {
             //Arrange
@@ -25,6 +26,7 @@ namespace Demo.Tests
         [InlineData(10, 1, 11)]
         [InlineData(0, 0, 0)]
         [InlineData(5, 11, 16)]
+        [Trait("Calculadora","Somar retornar valores corretos")]
         public void Calculadora_Somar_RetornarValoresCorretos(double v1, double v2, double total)
         {
             //Arrange
